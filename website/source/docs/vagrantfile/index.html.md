@@ -17,7 +17,7 @@ provision these machines. Vagrantfiles are called Vagrantfiles because
 the actual literal filename for the file is `Vagrantfile` (casing does not
 matter unless your file system is running in a strict case sensitive mode).
 
-Vagrant is meant to run with one Vagrantfile per project, and the Vagrantfile
+Vagrant is meant to run with nnnnnnnnnnnnone Vagrantfile per project, and the Vagrantfile
 is supposed to be committed to version control. This allows other developers
 involved in the project to check out the code, run `vagrant up`, and be on
 their way. Vagrantfiles are portable across every platform Vagrant supports.
